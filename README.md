@@ -120,13 +120,21 @@ To consistently deliver measurable value through:
 
 📁  analyst-value-plan
 ├── README.md
+
 ├── 01_30_days_learning.md
+
 ├── 02_60_days_analysis.md
+
 ├── 03_90_days_implementation.md
+
 ├── 04_continuous_improvement.md
+
 ├── dashboards/
+
 ├── process_maps/
+
 ├── reports/
+
 └── improvements_log.md
 
 ## ✅ Success Metrics (KPIs)
