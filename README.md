@@ -1,7 +1,6 @@
-# 📊 Analyst Value Delivery Plan – BME (Omnia)
-
+# 📊 Analyst Value Delivery Plan – Production & Logistics
 ## 👤 Overview
-This repository outlines my structured approach to delivering continuous business value as an Analyst at BME. The focus is on leveraging data analytics, process optimisation, and stakeholder collaboration to improve operational efficiency and support strategic decision-making.
+This repository outlines my structured approach to delivering continuous business value as an Analyst. The focus is on leveraging data analytics, process optimisation, and stakeholder collaboration to improve operational efficiency and support strategic decision-making.
 
 ---
 
