@@ -1,81 +1,120 @@
-![90477030](https://github.com/peacetheboy/CMPG-323-Overview-36564567-/assets/90477030/6ccd76bb-4474-4c38-9134-b04f2f781b50)
-# CMPG-323-Overview 36564567
-I'm now a CMPG 323 student! 🤩
+# 📊 Analyst Value Delivery Plan – BME (Omnia)
 
-project 1 will be created on this repository named CMPG-323-Overview - <36564567> ✅
+## 👤 Overview
+This repository outlines my structured approach to delivering continuous business value as an Analyst at BME. The focus is on leveraging data analytics, process optimisation, and stakeholder collaboration to improve operational efficiency and support strategic decision-making.
 
-# Project Repositories to be created for each project 🫡
-- CMPG-323-Overview Project 1 - <36564567> 
-- CMPG 323 Project 2 - <36564567>
-- CMPG 323 Project 3 - <36564567>
-- CMPG 323 Project 4 - <36564567>
-- CMPG 323 Project 5 - <36564567>
+---
 
-# Diagram explaining project and repository context and how they are integrated
-![image](https://github.com/peacetheboy/CMPG-323-Overview-36564567-/assets/90477030/08791091-dac5-45ac-a068-2175e0a84fad)
+## 🎯 Objective
+To consistently deliver measurable value through:
+- Data-driven insights
+- Process improvement and optimisation
+- Effective stakeholder engagement
+- Structured project execution
 
-# Branncing Strategy
+---
 
-## Why brancing is important
-Within a single, central code base, teams of developers can effortlessly interact via branching. The version control system makes a copy of the code base at that precise moment when a developer starts a branch. Other team members' developers are unaffected by changes to the branch. 
+## 🔁 Approach
+**Learn → Analyse → Improve → Implement → Measure → Repeat**
 
-## Branching strategies to be used
+---
 
-We follow a feature branching strategy to manage code changes effectively. This strategy allows for parallel development while maintaining code quality and minimizing conflicts.
+## 📅 90-Day Roadmap
 
-### Branch Types
+### 🔍 Phase 1: Understand (0–30 Days)
+**Goal:** Build strong foundational knowledge of the business
 
-1. **Main Branch:** The `main` (or `master`) branch holds the stable and deployable code. It should always reflect the production-ready state.
+**Key Activities:**
+- Engage with stakeholders across departments
+- Map current business processes (end-to-end)
+- Review systems, reports, and data flows
+- Identify bottlenecks and inefficiencies
+- Conduct observational analysis (job shadowing)
 
-2. **Feature Branches:** For each new feature, bug fix, or enhancement, create a new branch based on `main`. Use descriptive names that reflect the feature or issue being addressed (e.g., `feature/user-authentication`, `bugfix/data-validation`).
+**Early Value Add:**
+- Identify quick wins
+- Improve/document existing processes
+- Enhance clarity in reporting
 
-3. **Pull Requests:** When your feature is ready for review, open a pull request from your feature branch to `main`. This allows for code review, discussion, and testing before merging.
+---
 
-## Workflow
+### 📊 Phase 2: Analyse (30–60 Days)
+**Goal:** Identify opportunities for improvement
 
-1. Create a new branch for your feature or bug fix:
+**Key Activities:**
+- Perform detailed data analysis
+- Conduct requirements gathering and validation
+- Identify process inefficiencies
+- Develop optimisation strategies
+- Design dashboards and reporting solutions
 
-   ```bash
-   git checkout main
-   git pull origin main
-   git checkout -b feature/new-feature
-1. ### Regularly commit your changes to the feature branch:
-![carbon (1)](https://github.com/peacetheboy/CMPG-323-Overview-36564567-/assets/90477030/ce6319f2-0bf2-4064-903c-30ef2a1ea3bf)
+**Value Delivered:**
+- Actionable insights for decision-making
+- Identified cost-saving and efficiency opportunities
+- Improved reporting structures
 
-2. ### Push your changes to the remote repository:
-![carbon (2)](https://github.com/peacetheboy/CMPG-323-Overview-36564567-/assets/90477030/8f3a36a4-a60d-48d7-9e8f-2b51ad03e43e)
+---
 
-# Project Management with.gitignore (for all projects) 😇
+### 🚀 Phase 3: Implement (60–90 Days)
+**Goal:** Deliver measurable business improvements
 
-In this project, we use a '.gitignore' file to determine which files and folders Git will ignore, assuring that just the necessary code and resources are maintained. This strategy contributes to the cleanliness of our repository, removes unneeded clutter, and improves collaboration.
+**Key Activities:**
+- Implement approved process improvements
+- Collaborate with technical teams to deploy solutions
+- Define and track KPIs
+- Manage small-scale projects
+- Monitor performance and refine solutions
 
-## Why .gitignore? 🤔
+**Impact:**
+- Increased operational efficiency
+- Reduced process turnaround times
+- Improved data accuracy and visibility
 
-When developing a project, it is common to encounter files and directories that are generated automatically, contain sensitive information, or are unrelated to version control. Git should not track these files. The '.gitignore' file lets us set patterns for files and directories to ignore.
+---
 
-# Credentials and Sensitive Information 🤫
+## 🔄 Continuous Improvement Strategy
 
-The security of our code and user data is a high priority in these projects. We adhere to the best practices and rules stated below to ensure the safe storage and management of credentials and sensitive information.
+### 📈 Data & Reporting
+- Develop and maintain dashboards
+- Improve reporting automation
+- Build predictive and analytical models
 
+### ⚙️ Process Optimisation
+- Apply Lean and continuous improvement principles
+- Standardise processes
+- Eliminate waste and inefficiencies
 
-## Ground rules 📗
+### 🤝 Stakeholder Management
+- Facilitate alignment across teams
+- Communicate insights clearly to non-technical users
+- Serve as liaison between business and technical teams
 
-1. Use environment variables to store sensitive information such as API keys, passwords, and tokens. This isolates them from the codebase and prevents accidental exposure.
+### 📋 Project Management
+- Plan and track projects effectively
+- Manage resources and priorities
+- Ensure timely delivery of outcomes
 
-2. Sensitive data should be stored in configuration files. These files, however, should not be tracked by version control.
+---
 
-3. Encrypt sensitive data before storing it if possible. Even if the data is accessed, this adds an extra layer of security.
+## 📊 Key Focus Areas of Impact
 
-## Storing Credentials 🔐
+| Area | Focus | Expected Outcome |
+|------|------|-----------------|
+| Process Efficiency | Workflow optimisation | Faster operations |
+| Data Analytics | Reporting & dashboards | Better decisions |
+| Cost Management | Waste reduction | Cost savings |
+| Stakeholder Alignment | Communication & engagement | Improved execution |
+| Project Delivery | Planning & monitoring | On-time results |
 
-1. If environment variables aren't possible, create a separate configuration file to prevent this file from being committed, add it to your '.gitignore' file.
+---
 
-2. If configuration files must be included in version control, use placeholders or dummy values instead of genuine sensitive data. Provide directions for populating these files with the required information.
+## 🧠 Tools & Technologies
+- Microsoft Excel (Advanced)
+- Power BI / Dashboarding tools
+- Process Mapping (Visio / Lucidchart)
+- Data Analysis Techniques
+- GitHub (Documentation & Tracking)
 
-## Sensitive Data 🔒
+---
 
-To ensure that sensitive material does not end up in version control by accident, we utilize a '.gitignore' file to exclude files containing sensitive information. Configuration files, secret files, and environment-specific files are examples of such files.
-
-To keep sensitive data secure, we strongly advise examining and maintaining your project's '.gitignore' file.
-
-
+## 📁 Repository Structure
